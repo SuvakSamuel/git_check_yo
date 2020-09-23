@@ -8,6 +8,7 @@ public class Alpha {
 		
 		System.out.println("Domino Madzik, if you are reading this then go commit toaster bath xddddd");
 		System.out.println("idk I just don't like typing");
+		System.out.println("why are you locked in the bathroom");
 	}
 
 }
